@@ -1,5 +1,3 @@
-# Synopsis
-
 SDL Joypad test for Wii
 
 (The main target is the Nintendo Wii but it can also be used/tested on PC)
